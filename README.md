@@ -2,7 +2,7 @@
 
 # projeto-rocketnews
 
- Projeto RocketNews, disponibilizado pela Rocketseat.
+ Desafio RocketNews, disponibilizado pela Rocketseat.
  
  Projeto Final:
  
