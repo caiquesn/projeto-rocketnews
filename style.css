@@ -79,30 +79,38 @@ label {
 
 }
 
+#input-button {
+    display: flex;
+    padding-top: 20px;
+}
+
 input#email {
     width: 724px;
     height: 48px;
+    padding-left: 20px;
     
+}
+
+#email::placeholder {
+    color: var(--form-color);
 }
 
 button {
     width: 48px;
     height: 48px;
-    
     background-image: url(assets/send.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-color: var(--bg-button-color);
+    cursor: pointer;
 }
 
 #container a {
     display: flex;
-    padding: 40px;
+    padding: 0px 0px 0px 40px;
     text-decoration: none;
     color: var(--bg-button-color);
 }
-
-
 
 #image {
     display: flex;
